@@ -1,0 +1,38 @@
+/* imports */
+
+@import "colores";
+@import "sizes";
+
+h1{
+    color: $blue;
+    padding: $large;
+}
+
+h2{
+    color: $blue;
+    padding: $large;
+}
+
+h4{
+    color: $blue;
+    padding: $large;
+}
+
+p{
+    color: $blue;
+    padding: auto;
+}
+
+footer{
+    padding-left: 20%;
+    padding-top: 25%;
+
+}
+
+.redesSociales{
+    padding:30px 10px 10px 10px;
+	text-align: center
+}
+
+
+
